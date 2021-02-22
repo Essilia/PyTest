@@ -23,4 +23,4 @@
 l=[1,2,3]
 l.insert(1,7)
 print(abs(-100))
-print(max(1,2,3))
+print(max(1,2,3,4))
